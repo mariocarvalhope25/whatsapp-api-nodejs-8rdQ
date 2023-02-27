@@ -2244,10 +2244,10 @@ pino@^7.0.0:
     sonic-boom "^2.2.1"
     thread-stream "^0.15.1"
 
-pino@^8.6.1:
-  version "8.6.1"
-  resolved "https://registry.yarnpkg.com/pino/-/pino-8.6.1.tgz#3fc43acc79bcd3e871670347854f7359e2612f10"
-  integrity sha512-fi+V2K98eMZjQ/uEHHSiMALNrz7HaFdKNYuyA3ZUrbH0f1e8sPFDmeRGzg7ZH2q4QDxGnJPOswmqlEaTAZeDPA==
+pino@^8.11.0:
+  version "8.11.0"
+  resolved "https://registry.yarnpkg.com/pino/-/pino-8.11.0.tgz#2a91f454106b13e708a66c74ebc1c2ab7ab38498"
+  integrity sha512-Z2eKSvlrl2rH8p5eveNUnTdd4AjJk8tAsLkHYZQKGHP4WTh2Gi1cOSOs3eWPqaj+niS3gj4UkoreoaWgF3ZWYg==
   dependencies:
     atomic-sleep "^1.0.0"
     fast-redact "^3.1.1"
